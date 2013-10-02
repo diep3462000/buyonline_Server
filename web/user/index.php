@@ -1,0 +1,9 @@
+<?php 
+	include('includes/mysqli_connect.php');
+	include('includes/functions.php');
+	include('includes/header.php');
+	include('includes/check_level_user.php');
+	include('includes/content_a.php');
+	include('includes/content_b.php');
+	include('includes/footer.php');
+?>
